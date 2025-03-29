@@ -55,6 +55,9 @@
 ## Results:
 
   The results of the experiment will include two plots:
+  
     * Original Signal Plot:  Displays the continuous sinusoidal waveform.
+    
     * Ideal Sampled Signal Plot: Shows discrete points representing the sampled values from the original signal.
+    
   These plots will illustrate how ideal sampling captures specific points of the original waveform, effectively demonstrating the concept of ideal sampling in signal processing.

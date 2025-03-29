@@ -1,12 +1,12 @@
 # Ideal-Sampling
 ## Aim:
 
-The aim of this experiment is to understand and demonstrate the concept of ideal sampling in signal processing, highlighting its characteristics and practical applications.
+  The aim of this experiment is to understand and demonstrate the concept of ideal sampling in signal processing, highlighting its characteristics and practical applications.
 
 ## Tools required:
-
-* Colab (for executing Python code)
-* Libraries: NumPy, Matplotlib
+  
+  * Colab (for executing Python code)
+  * Libraries: NumPy, Matplotlib
 
 ## Program:
 ~~~import numpy as np
@@ -44,7 +44,8 @@ plt.xlabel('Time [s]')
 plt.ylabel('Amplitude')
 plt.grid(True)
 plt.legend()
-plt.show()~~~
+plt.show()
+~~~
 
 ## Output Waveform:
 
